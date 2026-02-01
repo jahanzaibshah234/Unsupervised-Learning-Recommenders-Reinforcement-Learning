@@ -21,8 +21,8 @@ Each week includes a hands-on lab or mini-project such as:
 ```
 .
 ├── week1_clustering/
-│   ├── kmeans_demo.py
-│   └── clustering_projects/
+│   ├── kmeans_scratch.py
+│   └── customer_segmentation.py
 ├── week2_recommenders/
 │   ├── collaborative_filtering.py
 │   └── Principle Component Analysis.py
